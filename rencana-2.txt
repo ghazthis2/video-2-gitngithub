@@ -6,3 +6,4 @@ tolooong tolooooong
 - tambahin belajar C
 - belajar Ruby
 - PHP dan laravel
+
